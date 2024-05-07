@@ -1,3 +1,17 @@
+-NEW SECTION-
+
+Having used the horrors of a badly made elastic strap I set out to find a case with suppoirt for good straps like vive/tundra straps but could never find any so I decided I wanted to make one but seeing as how this is my first time ever cading something I decided to just fork this case and add a thick enough base with a undersized hole so a heat set threaded insert can be put into it and it'll just screw onto the aftermarket straps no hassle at all! The design I went with was a 7.62mm by 9.30mm hole to fit the corresponding 7.62mm x 9.53mm threaded insert so when you heat set it it'll have enough grip to stay in place. I made it just enought o fit and it comes out at 29mm tall or 1.2 inches in freedom units. 
+
+-PICTURES-
+
+![Boomt side profile](https://github.com/MicroWazzle/SlimeX-FDM-Vive-Tundra/assets/43018573/03c66dcb-32e0-4263-a241-13da36d9872c)
+![Bottom Bottom profile](https://github.com/MicroWazzle/SlimeX-FDM-Vive-Tundra/assets/43018573/1be66b55-28ff-4c23-83a9-5144df298529)
+
+Please follow the origional persons guide on how to put everything inside the trackers as that is what the case was made for. I in no may made any modifications to the inside of the case so that guide will be exactly the same. As soon as I get my first prototype printed I will make a video on how to heat set inserts with a cheap soldering iron. 
+
+<3 be gentle this is my first ever cad.
+
+
 ### !! This case was designed for specific parts, check [Guides](/README.md#-guides) for more info. !!
  
  It *may* fit other parts, but those setups are neither tested nor supported.
@@ -133,17 +147,3 @@ I durability-tested with silk and non-silk PLA+ and the clips on silk cases snap
 If you repeatedly open and close a case (20+ times), you ***will*** shave off the small hooks that make the clips work properly. Once worn down, the case will still stay together but can easily be opened by pulling the two halves apart. This may be fixed in a design revision, but it's hard to find a balance between ease of use and durability for the clips. Just press against the clips and open them slowly, then you'll be ok.
 
 I've also stood on top of a case (~85kg) and it didn't even buckle much lol. You'll be fine laying on one if your bed isn't made of concrete.
-
--NEW SECTION-
-
-Having used the horrors of a badly made elastic strap I set out to find a case with suppoirt for good straps like vive/tundra straps but could never find any so I decided I wanted to make one but seeing as how this is my first time ever cading something I decided to just fork this case and add a thick enough base with a undersized hole so a heat set threaded insert can be put into it and it'll just screw onto the aftermarket straps no hassle at all! The design I went with was a 7.62mm by 9.30mm hole to fit the corresponding 7.62mm x 9.53mm threaded insert so when you heat set it it'll have enough grip to stay in place. I made it just enought o fit and it comes out at 29mm tall or 1.2 inches in freedom units. 
-
--PICTURES-
-
-![Boomt side profile](https://github.com/MicroWazzle/SlimeX-FDM-Vive-Tundra/assets/43018573/03c66dcb-32e0-4263-a241-13da36d9872c)
-![Bottom Bottom profile](https://github.com/MicroWazzle/SlimeX-FDM-Vive-Tundra/assets/43018573/1be66b55-28ff-4c23-83a9-5144df298529)
-
-Please follow the origional persons guide on how to put everything inside the trackers as that is what the case was made for. I in no may made any modifications to the inside of the case so that guide will be exactly the same. As soon as I get my first prototype printed I will make a video on how to heat set inserts with a cheap soldering iron. 
-
-<3 be gentle this is my first ever cad.
-[README.md](https://github.com/MicroWazzle/SlimeX-FDM-Vive-Tundra/files/15239921/README.md)
