@@ -134,11 +134,12 @@ If you repeatedly open and close a case (20+ times), you ***will*** shave off th
 
 I've also stood on top of a case (~85kg) and it didn't even buckle much lol. You'll be fine laying on one if your bed isn't made of concrete.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+-NEW SECTION-
 
 Having used the horrors of a badly made elastic strap I set out to find a case with suppoirt for good straps like vive/tundra straps but could never find any so I decided I wanted to make one but seeing as how this is my first time ever cading something I decided to just fork this case and add a thick enough base with a undersized hole so a heat set threaded insert can be put into it and it'll just screw onto the aftermarket straps no hassle at all! The design I went with was a 7.62mm by 9.30mm hole to fit the corresponding 7.62mm x 9.53mm threaded insert so when you heat set it it'll have enough grip to stay in place. I made it just enought o fit and it comes out at 29mm tall or 1.2 inches in freedom units. 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-PICTURES-
+
 ![Boomt side profile](https://github.com/MicroWazzle/SlimeX-FDM-Vive-Tundra/assets/43018573/03c66dcb-32e0-4263-a241-13da36d9872c)
 ![Bottom Bottom profile](https://github.com/MicroWazzle/SlimeX-FDM-Vive-Tundra/assets/43018573/1be66b55-28ff-4c23-83a9-5144df298529)
 
